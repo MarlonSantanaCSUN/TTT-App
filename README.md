@@ -1,2 +1,1 @@
-https://marlonsantanacsun.github.io/TTT-App
-/
+https://marlonsantanacsun.github.io/TTT-App/
